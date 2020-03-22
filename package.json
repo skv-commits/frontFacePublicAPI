@@ -1,7 +1,8 @@
 {
-  "name": "quizzz",
+  "name": "general",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saikrishna-commits.github.io/frontFacePublicAPI",
   "dependencies": {
     "@material-ui/core": "^4.9.3",
     "@material-ui/icons": "^4.9.1",
