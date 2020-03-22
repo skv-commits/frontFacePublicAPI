@@ -16,45 +16,45 @@ export const mainListItems = (
             <ListItemIcon>
                 <DashboardIcon />
             </ListItemIcon>
-            <ListItemText primary="Dashboard" />
+            <ListItemText primary="Feature1" />
         </ListItem>
         <ListItem button>
             <ListItemIcon>
                 <ShoppingCartIcon />
             </ListItemIcon>
-            <ListItemText primary="Orders" />
+            <ListItemText primary="Feature2" />
         </ListItem>
         <ListItem button>
             <ListItemIcon>
                 <PeopleIcon />
             </ListItemIcon>
-            <ListItemText primary="Customers" />
+            <ListItemText primary="Feature3" />
         </ListItem>
         <ListItem button>
             <ListItemIcon>
                 <BarChartIcon />
             </ListItemIcon>
-            <ListItemText primary="Reports" />
+            <ListItemText primary="Feature4" />
         </ListItem>
         <ListItem button>
             <ListItemIcon>
                 <LayersIcon />
             </ListItemIcon>
-            <ListItemText primary="Integrations" />
+            <ListItemText primary="Feature5" />
         </ListItem>
     </div>
 );
 
 export const secondaryListItems = (
     <div>
-        <ListSubheader inset>Saved reports</ListSubheader>
+        {/* <ListSubheader inset>Saved reports</ListSubheader>
         <ListItem button>
             <ListItemIcon>
                 <AssignmentIcon />
             </ListItemIcon>
             <ListItemText primary="Current month" />
-        </ListItem>
-        <ListItem button>
+        </ListItem> */}
+        {/* <ListItem button>
             <ListItemIcon>
                 <AssignmentIcon />
             </ListItemIcon>
@@ -65,6 +65,6 @@ export const secondaryListItems = (
                 <AssignmentIcon />
             </ListItemIcon>
             <ListItemText primary="Year-end sale" />
-        </ListItem>
+        </ListItem> */}
     </div>
 );
