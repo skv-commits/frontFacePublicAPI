@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/frontFacePublicAPI/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/frontFacePublicAPI/static/js/main.885b3ffb.chunk.js",
-    "main.js.map": "/frontFacePublicAPI/static/js/main.885b3ffb.chunk.js.map",
+    "main.js": "/frontFacePublicAPI/static/js/main.d8851a0e.chunk.js",
+    "main.js.map": "/frontFacePublicAPI/static/js/main.d8851a0e.chunk.js.map",
     "runtime-main.js": "/frontFacePublicAPI/static/js/runtime-main.7800d6bd.js",
     "runtime-main.js.map": "/frontFacePublicAPI/static/js/runtime-main.7800d6bd.js.map",
-    "static/js/2.bf19cd89.chunk.js": "/frontFacePublicAPI/static/js/2.bf19cd89.chunk.js",
-    "static/js/2.bf19cd89.chunk.js.map": "/frontFacePublicAPI/static/js/2.bf19cd89.chunk.js.map",
+    "static/js/2.4ffd9a59.chunk.js": "/frontFacePublicAPI/static/js/2.4ffd9a59.chunk.js",
+    "static/js/2.4ffd9a59.chunk.js.map": "/frontFacePublicAPI/static/js/2.4ffd9a59.chunk.js.map",
     "index.html": "/frontFacePublicAPI/index.html",
-    "precache-manifest.0aa82e1b6711f1efd27e37c2b99abf4f.js": "/frontFacePublicAPI/precache-manifest.0aa82e1b6711f1efd27e37c2b99abf4f.js",
+    "precache-manifest.660c931ce25998edafa92ffc61d987c7.js": "/frontFacePublicAPI/precache-manifest.660c931ce25998edafa92ffc61d987c7.js",
     "service-worker.js": "/frontFacePublicAPI/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/frontFacePublicAPI/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bf19cd89.chunk.js.LICENSE.txt": "/frontFacePublicAPI/static/js/2.bf19cd89.chunk.js.LICENSE.txt"
+    "static/js/2.4ffd9a59.chunk.js.LICENSE.txt": "/frontFacePublicAPI/static/js/2.4ffd9a59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7800d6bd.js",
-    "static/js/2.bf19cd89.chunk.js",
+    "static/js/2.4ffd9a59.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.885b3ffb.chunk.js"
+    "static/js/main.d8851a0e.chunk.js"
   ]
 }
